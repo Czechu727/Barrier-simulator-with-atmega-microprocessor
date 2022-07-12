@@ -1,0 +1,2 @@
+# C_Engin-and-barrier-
+The program, along with the circuit in the simulator, is designed to replicate the barrier at the gates on the highway. The display shows commands to the driver, the LEDs reproduce the green and red lights, the servo reproduces the barrier, and the DC motor simulates the car. When the display shows the command to take a ticket, the mode zstyk is pressed after shorting which the light turns green, the barrier rises and the car starts.
